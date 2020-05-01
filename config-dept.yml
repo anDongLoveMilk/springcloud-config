@@ -17,7 +17,6 @@ mybatis:
 
 spring:
   profiles: dev
-spring:
   application:
     name: springcloud-provider-config-dept
   datasource:
@@ -54,9 +53,9 @@ mybatis:
 
 #    spring的配置
 
+
 spring:
   profiles: test
-spring:
   application:
     name: springcloud-provider-config-dept
   datasource:
