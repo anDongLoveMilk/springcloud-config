@@ -42,7 +42,7 @@ info:
   app.name: 王安东-springcloud
   company.name: 南十大
 
-  ---
+---
 server:
   port: 8001
 
